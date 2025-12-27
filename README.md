@@ -1,1 +1,1 @@
-project management system in github
+project management system in git
